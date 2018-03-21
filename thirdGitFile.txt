@@ -1,1 +1,1 @@
-This is my third git file.
+This is my third git file. Want to check the difference b/w workingcopy, stage and repository. And again making changes after moving to stage and before commiting to repository. Want to check the git diff --cached.
