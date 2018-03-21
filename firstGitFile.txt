@@ -1,1 +1,1 @@
-This is my first git file. Want to change something after fourth commit.
+This is my first git file.
