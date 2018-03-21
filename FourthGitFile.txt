@@ -1,1 +1,1 @@
-This is my fourth git commit.
+This is my fourth git commit. And want to check the difference b/w workingcopy, stage and repository.
